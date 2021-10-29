@@ -1,2 +1,2 @@
 # Thomas-VIdal
-https://yashoo69.github.io/portfolio_thomas_vidal/
+https://yashoo69.github.io/Portfolio_Thomas_Vidal/
