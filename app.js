@@ -23,3 +23,9 @@ menu_item.forEach((item) => {
 		mobile_menu.classList.toggle('active');
 	});
 });
+
+// Barre progression skills 
+
+
+
+// End barre de progression skills
